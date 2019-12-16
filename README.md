@@ -1,4 +1,4 @@
 <h1>TP Architecture</h1>
-<p>Voici le fichier PHP permettant de gérer la pagination d'une liste de commentaire.</p>
-<p>Veuillez cloner mon dépot et déposer sur le votre (en ligne) une version corrigée du tp.<br>
-Vous prendrez en charge les extrémités (première page et dernière page) dans l'affichage des numéros de pages.</p>
+En ouvrant le fichier PHP, un problème est survenu au niveau de la pagination où l'on voyais apparaitre la page 0, -1 et -2...
+
+De ce fait, j'ai changé la ligne N° 26 et 64
